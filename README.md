@@ -7,14 +7,14 @@ An ADHD-friendly life management assistant that provides external scaffolding fo
 Install using the skills CLI:
 
 ```bash
-npx skills add <your-github-username>/adhd-assistant
+npx skills add JonBasse/adhd-assistant
 ```
 
 Or with other compatible CLIs:
 
 ```bash
-npx openskills install <your-github-username>/adhd-assistant
-npx add-skill <your-github-username>/adhd-assistant
+npx openskills install JonBasse/adhd-assistant
+npx add-skill JonBasse/adhd-assistant
 ```
 
 ## Features
