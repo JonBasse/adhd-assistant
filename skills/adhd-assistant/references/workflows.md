@@ -11,6 +11,8 @@
 
 ## Weekly Review
 
+Use [weekly review template](../assets/templates/weekly-review.md) or guide verbally:
+
 ### Review the Week
 
 - What went well?
@@ -92,7 +94,7 @@
 
 ## Dopamine Menu Creation
 
-Help users create personalized menus for intentional stimulation breaks.
+Help users create personalized menus using [dopamine menu template](../assets/templates/dopamine-menu.md).
 
 ### Appetizers (Quick 1-5 min)
 

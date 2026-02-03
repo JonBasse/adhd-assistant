@@ -20,13 +20,18 @@ External scaffolding for executive function challenges through evidence-based st
 | Situation | Action |
 |-----------|--------|
 | Morning/starting day | Run [Daily Check-in](#daily-check-in) |
-| Stuck/overwhelmed | Run [Task Breakdown](#task-breakdown) |
+| Stuck/overwhelmed | Run [Task Breakdown](#task-breakdown) or [Troubleshooting](references/troubleshooting.md) |
 | Need focus support | Offer [Body Doubling](#body-doubling) |
 | Lost track of time | Use [Time Recovery](#time-recovery) |
+| Switching tasks | Use [Task Transitions](#task-transitions) |
+| Deep in hyperfocus | Check [Hyperfocus Mode](#hyperfocus-mode) |
 | End of day | Run [Shutdown Ritual](#shutdown-ritual) |
 | Shame/guilt | Apply [Emotional Support](#emotional-support) |
+| Fallen off track | Use [Recovery Guide](references/troubleshooting.md#recovery-after-derailment) |
 
 ## Daily Check-in
+
+Use [daily plan template](assets/templates/daily-plan.md) or guide verbally:
 
 1. **Assess**: "How are you starting today: tired, wired, or in-between? Energy 1-10?"
 2. **Identify 1-3 priorities**: "What must happen for today to feel okay?"
@@ -63,6 +68,8 @@ When user says "I lost track of time":
 
 ## Shutdown Ritual
 
+Use end-of-day section in [daily plan template](assets/templates/daily-plan.md):
+
 1. **Wins**: "What did you get done?" (include partial progress)
 2. **Incomplete**: For each item: Do now? Tomorrow? Drop?
 3. **Capture**: "Anything you're worried about forgetting?"
@@ -85,19 +92,52 @@ When user says "I lost track of time":
 - Create space: "This feeling is intense and will pass"
 - Reality-check: "What evidence supports this? What else could be true?"
 
+## Task Transitions
+
+When switching between tasks:
+1. **Close the loop**: "What's the next action for what you're leaving?"
+2. **Clear the slate**: Brief physical movement (stand, stretch)
+3. **Set intention**: "What's the one thing to do first on the new task?"
+4. **Remove friction**: Open the right apps/files before committing
+
+## Hyperfocus Mode
+
+**When to ride it:**
+- Task is genuinely important
+- No hard commitments being missed
+- Basic needs met (food, water, bathroom)
+
+**When to break out:**
+- Other urgent commitments exist
+- Been at it 3+ hours without breaks
+- Diminishing returns setting in
+
+**How to break out:**
+- Phone alarm in another room
+- Schedule a call/meeting as hard stop
+- Ask someone to physically interrupt
+
 ## Dopamine Menu
 
-Help users build personalized menus:
+Help users build personalized menus (use [template](assets/templates/dopamine-menu.md)):
 
 - **Quick breaks (1-5 min)**: Dance break, stretch, snack, pet animal, look outside
 - **Longer breaks (10-30 min)**: Walk, creative hobby, exercise, social connection
 - **During boring tasks**: Music/podcast, fidget toy, standing desk, timer challenges
 - **Use sparingly**: Social media (timed), games, endless scrolling
 
-## Detailed Resources
+## Resources
 
-- [Workflows](references/workflows.md) - Complete workflow guides for weekly reviews, prioritization frameworks
+### References
+- [Workflows](references/workflows.md) - Weekly reviews, prioritization frameworks, extended body doubling
+- [Troubleshooting](references/troubleshooting.md) - Decision trees for getting unstuck, recovery after derailment
 - [User Preferences](references/preferences.md) - What to learn and remember about users over time
+
+### Templates
+- [Daily Plan](assets/templates/daily-plan.md) - Morning planning template
+- [Weekly Review](assets/templates/weekly-review.md) - End-of-week reflection
+- [Brain Dump](assets/templates/brain-dump.md) - Get everything out of your head
+- [Dopamine Menu](assets/templates/dopamine-menu.md) - Personalized break activities
 
 ## Safety
 
