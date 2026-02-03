@@ -36,6 +36,10 @@ The skill triggers when you:
 - Mention ADHD explicitly or describe ADHD-related experiences
 - Want accountability or body doubling support
 
+## Credits
+
+Inspired by [thinktankmachine/adhd-assistant](https://www.clawhub.ai/thinktankmachine/adhd-assistant) on ClawHub.
+
 ## License
 
 MIT
